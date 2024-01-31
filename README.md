@@ -1,5 +1,8 @@
 # Android device tree for Xiaomi Archimedes (Archimedes)
 
+### THIS MAY NOT THE PLACE YOU ARE LOOKING FOR
+You should go [here](https://github.com/CrackMiDrAi/recovery_build) if you just want to download recovery image(s).
+
 This device tree is generated from `recovery.img` via [twrpdtgen](https://github.com/twrpdtgen/twrpdtgen).
 
 SHA256 of `recovery.img`: `8cc3cbeecc003c361ae4e2e2ea11cbb70451ed79cf25520a2678e6d214a69a8e`
