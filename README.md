@@ -1,5 +1,7 @@
 # Android device tree for Xiaomi Archytas (Archytas)
 
+Switch device: Archytas (WiFi) | [Archimedes (4G)](https://github.com/CrackMiDrAi/twrp_device_tree/tree/Archimedes)
+
 ### THIS MAY NOT THE PLACE YOU ARE LOOKING FOR
 You should go [here](https://github.com/CrackMiDrAi/recovery_build) if you just want to download recovery image(s).
 
