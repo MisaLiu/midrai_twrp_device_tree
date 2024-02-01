@@ -1,7 +1,7 @@
 # Android device tree for Xiaomi Archytas (Archytas)
 
 ### THIS MAY NOT THE PLACE YOU ARE LOOKING FOR
-You should [here](https://github.com/CrackMiDrAi/recovery_build) here if you just want to download recovery image(s).
+You should go [here](https://github.com/CrackMiDrAi/recovery_build) if you just want to download recovery image(s).
 
 This device tree is generated from `recovery.img` via [twrpdtgen](https://github.com/twrpdtgen/twrpdtgen).
 
