@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=Archimedes
+DEVICE=Archytas
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
