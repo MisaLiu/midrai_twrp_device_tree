@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_Archimedes-user
-add_lunch_combo omni_Archimedes-userdebug
-add_lunch_combo omni_Archimedes-eng
+add_lunch_combo omni_Archytas-user
+add_lunch_combo omni_Archytas-userdebug
+add_lunch_combo omni_Archytas-eng

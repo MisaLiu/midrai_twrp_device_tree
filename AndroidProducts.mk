@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Archimedes.mk
+    $(LOCAL_DIR)/omni_Archytas.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Archimedes-user \
-    omni_Archimedes-userdebug \
-    omni_Archimedes-eng
+    omni_Archytas-user \
+    omni_Archytas-userdebug \
+    omni_Archytas-eng

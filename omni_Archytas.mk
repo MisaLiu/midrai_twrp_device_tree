@@ -11,18 +11,18 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from Archimedes device
-$(call inherit-product, device/xiaomi/Archimedes/device.mk)
+# Inherit from Archytas device
+$(call inherit-product, device/xiaomi/Archytas/device.mk)
 
-PRODUCT_DEVICE := Archimedes
-PRODUCT_NAME := omni_Archimedes
+PRODUCT_DEVICE := Archytas
+PRODUCT_NAME := omni_Archytas
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Archimedes
+PRODUCT_MODEL := Archytas
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-longcheer
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="full_Archimedes-user 9 PPR1.180610.011 1589 release-keys"
+    PRIVATE_BUILD_DESC="full_Archytas-user 9 PPR1.180610.011 1754 release-keys"
 
-BUILD_FINGERPRINT := Xiaomi/full_Archimedes/Archimedes:9/PPR1.180610.011/1589:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/full_Archytas/Archytas:9/PPR1.180610.011/1754:user/release-keys
